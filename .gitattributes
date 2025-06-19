@@ -1,0 +1,6 @@
+# Marca tudo que estiver em sql/**/*.sql como SQL
+sql/**/*.sql linguist-language=SQL
+
+# (Opcional) reforça que bin e obj são vendored/ignorados
+bin/** linguist-vendored
+obj/** linguist-vendored
