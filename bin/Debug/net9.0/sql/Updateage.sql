@@ -1,1 +1,0 @@
-UPDATE [BankDetails] SET Age = @age WHERE AccountNumber = @accountnumber

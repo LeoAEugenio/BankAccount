@@ -1,1 +1,0 @@
-UPDATE [BankDetails] SET AccountNumber = @accountnumber WHERE Password = @password

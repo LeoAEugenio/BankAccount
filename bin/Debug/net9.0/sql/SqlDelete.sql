@@ -1,1 +1,0 @@
-DELETE FROM [BankDetails] WHERE AccountNumber = @accountnumber

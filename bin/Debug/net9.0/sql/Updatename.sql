@@ -1,1 +1,0 @@
-UPDATE [BankDetails] SET Name = @newname WHERE AccountNumber = @accountnumber

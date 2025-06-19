@@ -1,1 +1,0 @@
-UPDATE [BankDetails] SET Agency = @agency WHERE AccountNumber = @accountnumber
