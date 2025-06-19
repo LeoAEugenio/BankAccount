@@ -1,0 +1,1 @@
+UPDATE [BankDetails] SET AmountOfMoney = @newbalance WHERE AccountNumber = @accountnumber

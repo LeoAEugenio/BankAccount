@@ -1,0 +1,1 @@
+SELECT AmountOfMoney FROM [BankDetails] WHERE AccountNumber = @accountnumber

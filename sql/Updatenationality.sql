@@ -1,0 +1,1 @@
+UPDATE [BankDetails] SET Nationality = @nationality WHERE AccountNumber = @accountnumber
