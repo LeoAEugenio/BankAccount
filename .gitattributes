@@ -1,6 +1,6 @@
-# Marca tudo que estiver em sql/**/*.sql como SQL
-sql/**/*.sql linguist-language=SQL
+# Conta todos os .sql como SQL
+*.sql linguist-language=SQL
 
-# (Opcional) reforça que bin e obj são vendored/ignorados
+# (Opcional) marcamos bin/ e obj/ como vendored
 bin/** linguist-vendored
 obj/** linguist-vendored
