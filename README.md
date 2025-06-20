@@ -12,6 +12,11 @@ BankAccount is a C# project that provides basic and practical functionalities fo
 - Delete accounts
 - SQL Server integration (update database path and column names for local usage)
 
+## Technologies
+
+- .NET (C#)  
+- SQL Server 
+
 ## Getting Started
 
 1. Download the repository or clone the repository to your local machine:
